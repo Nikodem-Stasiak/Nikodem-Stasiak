@@ -1,16 +1,16 @@
-## Hi there 👋
+### Cześć! Jestem Nikodem 👋
 
-<!--
-**Nikodem-Stasiak/Nikodem-Stasiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Obecnie studiuję **Informatykę Stosowaną** (2. rok, semestr letni) na uczelni UKEN w Krakowie. Skupiam się na rozwoju w kierunku programowania obiektowego i aktywnie buduję swoje inżynieryjne portfolio.
 
-Here are some ideas to get you started:
+🌱 **Moje aktualne technologie i narzędzia:**
+* **Java:** Programowanie Obiektowe (OOP), Kolekcje, Wyjątki
+* **Narzędzia:** Git & GitHub
+* **Środowisko (IDE):** IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Wyróżnione projekty:**
+* **Symulator Bankomatu** - aplikacja z systemem wpłat/wypłat, hermetyzacją i obsługą błędów.
+* **System Kadrowy** - architektura klas wykorzystująca dziedziczenie i polimorfizm.
+
+📫 **Kontakt:**
+* **Email:** nikodemstasiak19@gmail.com
+* **LinkedIn:** Profil w przygotowaniu – link pojawi się wkrótce!
