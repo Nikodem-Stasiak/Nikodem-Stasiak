@@ -1,26 +1,48 @@
-### Cześć! Jestem Nikodem 👋
+# Cześć, tu Niko! 👋
 
-Obecnie studiuję **Informatykę Stosowaną** (2. rok, semestr letni) na uczelni UKEN w Krakowie. Skupiam się na rozwoju w kierunku programowania obiektowego i aktywnie buduję swoje inżynieryjne portfolio.
+### 🚀 Cel: Junior Java Developer | Wakacje 2026
+Jestem w trakcie intensywnej drogi od "Hello World" do profesjonalnego programisty. Skupiam się na solidnych fundamentach Javy i nowoczesnym ekosystemie backendowym.
 
-🌱 **Moje aktualne technologie i narzędzia:**
-* **Java:** Programowanie Obiektowe (OOP), Kolekcje, Wyjątki
-* **Narzędzia:** Git & GitHub
-* **Środowisko (IDE):** IntelliJ IDEA
+---
 
-🔭 **Wyróżnione projekty:**
-* **Symulator Bankomatu** - aplikacja z systemem wpłat/wypłat, hermetyzacją i obsługą błędów.
-* **System Kadrowy** - architektura klas wykorzystująca dziedziczenie i polimorfizm.
+## 🛠 Moja Stack Technologiczny
+* **Języki:** Java 17+ (Core, OOP)
+* **GUI:** Java Swing, AWT
+* **Narzędzia:** Git, GitHub, IntelliJ IDEA
+* **W drodze:** SQL, Spring Boot, JUnit
 
-* ### 🧠 Czego się nauczyłem?
-* **Obsługa zdarzeń (Event Handling):** Zrozumienie, jak działają `ActionListeners` i dlaczego GUI wymaga odświeżania (`revalidate/repaint`).
-* **Zasada DRY (Don't Repeat Yourself):** Refaktoryzacja kodu logowania do osobnej metody, aby uniknąć duplikacji.
-* **Defensive Programming:** Zabezpieczanie aplikacji przed błędami użytkownika (np. wpisywanie liter w pole PIN) za pomocą bloków `try-catch`.
+---
 
-* ### 📸 Screeny
-| Ekran Logowania | Menu Główne |
-| :---: | :---: |
-| ![Login](img/login.png) | ![Menu](img/menu.png) |
+## 🏆 Wyróżniony Projekt: MiniProjekt Bankomat
+To moja główna baza treningowa, w której przeszedłem drogę od skryptu terminalowego do aplikacji okienkowej.
 
-📫 **Kontakt:**
-* **Email:** nikodemstasiak19@gmail.com
-* **LinkedIn:** Profil w przygotowaniu – link pojawi się wkrótce!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikodem-Stasiak/MiniProjekt_Bankomat/master/img/Login.png" width="450" alt="Bankomat GUI Login">
+</p>
+
+### Co potrafi ten projekt?
+* **Ewolucja:** Przebudowa z wersji konsolowej na graficzną (Swing).
+* **Logika:** Autorski system weryfikacji PIN i zarządzania saldem.
+* **Dane:** Trwały zapis i odczyt bazy użytkowników z plików `.txt`.
+* **Bezpieczeństwo:** Obsługa wyjątków i walidacja danych wejściowych.
+
+👉 **[ZOBACZ REPOZYTORIUM BANKOMATU](https://github.com/Nikodem-Stasiak/MiniProjekt_Bankomat)**
+
+---
+
+## 📈 Moja Droga do Juniora 2026
+- [x] Fundamenty Javy i Algorytmika
+- [x] GUI i Event Handling (Swing)
+- [ ] Relacyjne Bazy Danych (SQL)
+- [ ] Framework Spring Boot
+- [ ] Pierwszy komercyjny staż/praca
+
+---
+
+## 📫 Kontakt
+* **GitHub:** https://github.com/Nikodem-Stasiak
+* **LinkedIn:** [Wkrótce]
+* **Mail:** nikodemstasiak19@gmail.com
+
+---
+*„Koduję codziennie, myślę logicznie, dążę do celu.”*
